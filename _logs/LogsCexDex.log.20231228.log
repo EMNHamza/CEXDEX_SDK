@@ -1,0 +1,4 @@
+2024-01-01 20:51:30,544 - ERROR - Error: 
+2024-01-01 20:51:30,545 - INFO - WebSocket Maya is already open
+2024-01-01 20:51:30,546 - INFO - ### WebSocket Maya Closed ###
+2024-01-01 20:51:30,546 - INFO - tearing down on exception 

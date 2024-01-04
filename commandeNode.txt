@@ -1,0 +1,16 @@
+curl -sfL https://get.k3s.io | INSTALL_K3S_COMMIT=fe3cecc219175ea85d7a95ed9e44349d94734bc7 sh -s - --disable=traefik --write-kubeconfig-mode 644
+wget https://github.com/derailed/k9s/releases/download/v0.28.2/k9s_Linux_amd64.tar.gz
+tar -xvzf k9s_Linux_amd64.tar.gz
+rm LICENSE README.md k9s_Linux_amd64.tar.gz
+
+cd ~
+git clone https://gitlab.com/mayachain/mayanode / 
+cd node-launcher
+git checkout master
+git config pull.rebase true
+git config rebase.autoStash true
+
+
+kubectl -n mayanode delete sts/midgard-timescaledb sts/midgard
+echo "performance" | sudo tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor
+echo off > /sys/devices/system/cpu/smt/control

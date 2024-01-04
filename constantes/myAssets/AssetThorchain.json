@@ -1,0 +1,101 @@
+{
+    "ETH.USDC": {
+        "chain": "ETH",
+        "symbol": "USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48",
+        "ticker": "USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48",
+        "poolName": "ETH.USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48",
+        "balanceName": "eth/usdc-0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "memoName": "ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48",
+        "assetType": "STABLE",
+        "decimals": 8,
+        "maxBalancePercentage": 1
+    },
+    "ETH.USDT": {
+        "chain": "ETH",
+        "symbol": "USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7",
+        "ticker": "USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7",
+        "poolName": "ETH.USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7",
+        "balanceName": "eth/usdt-0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "memoName": "ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7",
+        "assetType": "STABLE",
+        "decimals": 8,
+        "maxBalancePercentage": 1
+    },
+    "ETH.DAI": {
+        "chain": "ETH",
+        "symbol": "DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F",
+        "ticker": "DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F",
+        "poolName": "ETH.DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F",
+        "balanceName": "eth/dai-0x6b175474e89094c44da98b954eedeac495271d0f",
+        "memoName": "ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F",
+        "assetType": "STABLE",
+        "decimals": 8,
+        "maxBalancePercentage": 0
+    },
+    "THOR.RUNE": {
+        "chain": "THOR",
+        "symbol": "RUNE",
+        "ticker": "RUNE",
+        "poolName": "THOR.RUNE",
+        "balanceName": "rune",
+        "memoName": "THOR.RUNE",
+        "assetType": "RUNE",
+        "decimals": 8,
+        "maxBalancePercentage": 1
+    },
+    "ETH.ETH": {
+        "chain": "ETH",
+        "symbol": "ETH",
+        "ticker": "ETH",
+        "poolName": "ETH.ETH",
+        "balanceName": "eth/eth",
+        "memoName": "ETH/ETH",
+        "assetType": "ETH",
+        "decimals": 8,
+        "maxBalancePercentage": 1
+    },
+    "BNB.ETH": {
+        "chain": "BNB",
+        "symbol": "ETH-1C9",
+        "ticker": "ETH-1C9",
+        "poolName": "BNB.ETH-1C9",
+        "balanceName": "bnb/eth-1c9",
+        "memoName": "BNB/ETH-1C9",
+        "assetType": "ETH",
+        "decimals": 8,
+        "maxBalancePercentage": 0.5
+    },
+    "BTC.BTC": {
+        "chain": "BTC",
+        "symbol": "BTC",
+        "ticker": "BTC",
+        "poolName": "BTC.BTC",
+        "balanceName": "btc/btc",
+        "memoName": "BTC/BTC",
+        "assetType": "BTC",
+        "decimals": 8,
+        "maxBalancePercentage": 1
+    },
+    "BNB.BTCB": {
+        "chain": "BNB",
+        "symbol": "BTCB-1DE",
+        "ticker": "BTCB-1DE",
+        "poolName": "BNB.BTCB-1DE",
+        "balanceName": "bnb/btcb-1de",
+        "memoName": "BNB/BTCB-1DE",
+        "assetType": "BTC",
+        "decimals": 8,
+        "maxBalancePercentage": 0
+    },
+    "ETH.WBTC": {
+        "chain": "ETH",
+        "symbol": "WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599",
+        "ticker": "WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599",
+        "poolName": "ETH.WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599",
+        "balanceName": "eth/wbtc-0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "memoName": "ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599",
+        "assetType": "BTC",
+        "decimals": 8,
+        "maxBalancePercentage": 0
+    }
+}

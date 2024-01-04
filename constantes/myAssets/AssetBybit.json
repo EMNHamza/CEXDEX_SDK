@@ -1,0 +1,20 @@
+{
+    "USDC": {
+        "assetType": "STABLE",
+        "symbol": "USDC",
+        "balanceName": "USDC",
+        "decimals": 0
+    },
+    "BTC": {
+        "assetType": "BTC",
+        "symbol": "BTC",
+        "balanceName": "BTC",
+        "decimals": 0
+    },
+    "ETH": {
+        "assetType": "ETH",
+        "symbol": "ETH",
+        "balanceName": "ETH",
+        "decimals": 0
+    }
+}

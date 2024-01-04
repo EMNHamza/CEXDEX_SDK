@@ -1,0 +1,841 @@
+BLOCK : 13482893
+
+opportunityThorchain - assetIn BTC assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.01428571 amountOutEstimated 0.01427285 outboundFees 3.3413860385704897e-06 slipFees 3.4510389196985586e-06
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=BNB/BTCB-1DE&amount=1428571&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.01427286
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTC assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.02857142 amountOutEstimated 0.02853525 outboundFees 3.340612997242153e-06 slipFees 1.379748612847492e-05
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=BNB/BTCB-1DE&amount=2857142&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.02853526
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTC assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.04285714 amountOutEstimated 0.0427839 outboundFees 3.339841058816002e-06 slipFees 3.1029363060715264e-05
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=BNB/BTCB-1DE&amount=4285714&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.0427839
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTC assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.05714285 amountOutEstimated 0.05701876 outboundFees 3.339070223093763e-06 slipFees 5.51366675836605e-05
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=BNB/BTCB-1DE&amount=5714285&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.05701876
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTC assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.07142857 amountOutEstimated 0.07123988 outboundFees 3.3383004866309944e-06 slipFees 8.610947043813114e-05
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=BNB/BTCB-1DE&amount=7142857&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.07123988
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTC assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.08571428 amountOutEstimated 0.08544726 outboundFees 3.3375318481534516e-06 slipFees 0.00012393778024502068
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=BNB/BTCB-1DE&amount=8571428&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.08544726
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTC assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.1 amountOutEstimated 0.09964093 outboundFees 3.3367643047676114e-06 slipFees 0.0001686117168953656
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=BNB/BTCB-1DE&amount=10000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.09964093
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTC assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.11428571 amountOutEstimated 0.11382088 outboundFees 3.335997855747132e-06 slipFees 0.00022012129971918276
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=BNB/BTCB-1DE&amount=11428571&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.11382088
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTC assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.12857142 amountOutEstimated 0.12798715 outboundFees 3.3352324976665835e-06 slipFees 0.00027845665438057474
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=BNB/BTCB-1DE&amount=12857142&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.12798715
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTC assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.14285714 amountOutEstimated 0.14213975 outboundFees 3.3344682287268e-06 slipFees 0.00034360794053878597
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=BNB/BTCB-1DE&amount=14285714&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.14213976
+Outbound Fee: 3.33e-06
+
+
+opportunityThorchain - assetIn BTC assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.15714285 amountOutEstimated 0.15627869 outboundFees 3.33370504713221e-06 slipFees 0.00041556519350448225
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=BNB/BTCB-1DE&amount=15714285&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.1562787
+Outbound Fee: 3.33e-06
+
+
+opportunityThorchain - assetIn BTC assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.17142857 amountOutEstimated 0.17040399 outboundFees 3.3329429505514172e-06 slipFees 0.0004943186553643409
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=BNB/BTCB-1DE&amount=17142857&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.170404
+Outbound Fee: 3.33e-06
+
+
+opportunityThorchain - assetIn BTC assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.18571428 amountOutEstimated 0.18451566 outboundFees 3.3321819371967417e-06 slipFees 0.0005798583720277406
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=BNB/BTCB-1DE&amount=18571428&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.18451567
+Outbound Fee: 3.33e-06
+
+
+opportunityThorchain - assetIn BTC assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.2 amountOutEstimated 0.19861373 outboundFees 3.3314220042062366e-06 slipFees 0.0006721746341890833
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=BNB/BTCB-1DE&amount=20000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.19861374
+Outbound Fee: 3.33e-06
+
+
+opportunityThorchain - assetIn BTC assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.21428571 amountOutEstimated 0.21269818 outboundFees 3.3306631514167982e-06 slipFees 0.000771257498312661
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=BNB/BTCB-1DE&amount=21428571&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.21269819
+Outbound Fee: 3.33e-06
+
+
+opportunityThorchain - assetIn BTC assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.22857142 amountOutEstimated 0.22676907 outboundFees 3.329905374896974e-06 slipFees 0.0008770972270963635
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=BNB/BTCB-1DE&amount=22857142&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.22676907
+Outbound Fee: 3.33e-06
+
+
+opportunityThorchain - assetIn BTC assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.24285714 amountOutEstimated 0.24082639 outboundFees 3.32914867287546e-06 slipFees 0.0009896841168671588
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=BNB/BTCB-1DE&amount=24285714&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.24082639
+Outbound Fee: 3.33e-06
+
+
+opportunityThorchain - assetIn BTC assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.25714285 amountOutEstimated 0.25487015 outboundFees 3.3283930441223983e-06 slipFees 0.0011090082398400294
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=BNB/BTCB-1DE&amount=25714285&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.25487015
+Outbound Fee: 3.33e-06
+
+
+opportunityThorchain - assetIn BTC assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.27142857 amountOutEstimated 0.26890038 outboundFees 3.3276384857973924e-06 slipFees 0.001235060007557047
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=BNB/BTCB-1DE&amount=27142857&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.26890038
+Outbound Fee: 3.33e-06
+
+
+opportunityThorchain - assetIn BTC assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.28571428 amountOutEstimated 0.28291708 outboundFees 3.3268849966778263e-06 slipFees 0.0013678295026795023
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=BNB/BTCB-1DE&amount=28571428&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.28291708
+Outbound Fee: 3.33e-06
+
+
+opportunityThorchain - assetIn BTC assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.01428571 amountOutEstimated 0.01431592 outboundFees 3.3512668917587245e-06 slipFees 2.591371823833787e-06
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=1428571&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.01431593
+Outbound Fee: 3.35e-06
+
+
+opportunityThorchain - assetIn BTC assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.02857142 amountOutEstimated 0.02862485 outboundFees 3.350694529832195e-06 slipFees 1.0361737445243506e-05
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=2857142&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.02862486
+Outbound Fee: 3.35e-06
+
+
+opportunityThorchain - assetIn BTC assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.04285714 amountOutEstimated 0.04292344 outboundFees 3.3501227767709524e-06 slipFees 2.3305487765518542e-05
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=4285714&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.04292345
+Outbound Fee: 3.35e-06
+
+
+opportunityThorchain - assetIn BTC assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.05714285 amountOutEstimated 0.05721168 outboundFees 3.349551632851071e-06 slipFees 4.1416991093515014e-05
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=5714285&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.05721168
+Outbound Fee: 3.35e-06
+
+
+opportunityThorchain - assetIn BTC assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.07142857 amountOutEstimated 0.07148959 outboundFees 3.348981095951184e-06 slipFees 6.469066560417204e-05
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=7142857&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.07148959
+Outbound Fee: 3.35e-06
+
+
+opportunityThorchain - assetIn BTC assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.08571428 amountOutEstimated 0.08575716 outboundFees 3.3484111663492495e-06 slipFees 9.312087792427115e-05
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=8571428&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.08575716
+Outbound Fee: 3.35e-06
+
+
+opportunityThorchain - assetIn BTC assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.1 amountOutEstimated 0.10001442 outboundFees 3.3478418423266696e-06 slipFees 0.0001267020734385685
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=10000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.10001442
+Outbound Fee: 3.35e-06
+
+
+opportunityThorchain - assetIn BTC assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.11428571 amountOutEstimated 0.11426137 outboundFees 3.3472731233646347e-06 slipFees 0.00016542861709074793
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=11428571&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.11426137
+Outbound Fee: 3.35e-06
+
+
+opportunityThorchain - assetIn BTC assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.12857142 amountOutEstimated 0.12849802 outboundFees 3.3467050085461482e-06 slipFees 0.00020929494890764466
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=12857142&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.12849802
+Outbound Fee: 3.35e-06
+
+
+opportunityThorchain - assetIn BTC assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.14285714 amountOutEstimated 0.14272439 outboundFees 3.346137496556707e-06 slipFees 0.0002582955296610458
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=14285714&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.14272439
+Outbound Fee: 3.35e-06
+
+
+opportunityThorchain - assetIn BTC assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.15714285 amountOutEstimated 0.15694046 outboundFees 3.3455705876785334e-06 slipFees 0.0003124247217681168
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=15714285&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.15694046
+Outbound Fee: 3.35e-06
+
+
+opportunityThorchain - assetIn BTC assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.17142857 amountOutEstimated 0.17114627 outboundFees 3.3450042798020975e-06 slipFees 0.00037167703835995215
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=17142857&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.17114628
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTC assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.18571428 amountOutEstimated 0.18534181 outboundFees 3.3444385728130295e-06 slipFees 0.00043604684016815265
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=18571428&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.18534182
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTC assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.2 amountOutEstimated 0.1995271 outboundFees 3.3438734654022874e-06 slipFees 0.0005055286673114984
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=20000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.19952711
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTC assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.21428571 amountOutEstimated 0.21370213 outboundFees 3.3433089574572123e-06 slipFees 0.0005801168788350754
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=21428571&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.21370214
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTC assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.22857142 amountOutEstimated 0.22786692 outboundFees 3.3427450476712734e-06 slipFees 0.0006598059842158357
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=22857142&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.22786693
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTC assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.24285714 amountOutEstimated 0.24202149 outboundFees 3.342181734739794e-06 slipFees 0.0007445905135106632
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=24285714&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.2420215
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTC assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.25714285 amountOutEstimated 0.25616583 outboundFees 3.341619018553267e-06 slipFees 0.0008344648232331357
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=25714285&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.25616584
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTC assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.27142857 amountOutEstimated 0.27029997 outboundFees 3.3410568974118756e-06 slipFees 0.0009294235206955331
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=27142857&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.27029998
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTC assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.28571428 amountOutEstimated 0.28442389 outboundFees 3.3404953716057025e-06 slipFees 0.0010294609607226332
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BTC/BTC&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=28571428&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.2844239
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut BTC
+opportunityThorchain - amountIn 0.01428571 amountOutEstimated 0.01427805 outboundFees 3.3427367994855633e-06 slipFees 3.45292800483767e-06
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=BTC/BTC&amount=1428571&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.01427806
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut BTC
+opportunityThorchain - amountIn 0.02857142 amountOutEstimated 0.02854566 outboundFees 3.3427036252489524e-06 slipFees 1.3805037426153108e-05
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=BTC/BTC&amount=2857142&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.02854567
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut BTC
+opportunityThorchain - amountIn 0.04285714 amountOutEstimated 0.04279949 outboundFees 3.3426704837103146e-06 slipFees 3.1046341889986835e-05
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=BTC/BTC&amount=4285714&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.0427995
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut BTC
+opportunityThorchain - amountIn 0.05714285 amountOutEstimated 0.05703954 outboundFees 3.3426373748677258e-06 slipFees 5.5166831098845025e-05
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=BTC/BTC&amount=5714285&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.05703955
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut BTC
+opportunityThorchain - amountIn 0.07142857 amountOutEstimated 0.07126584 outboundFees 3.3426042986495126e-06 slipFees 8.61565673260087e-05
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=BTC/BTC&amount=7142857&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.07126585
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut BTC
+opportunityThorchain - amountIn 0.08571428 amountOutEstimated 0.08547839 outboundFees 3.342571255053756e-06 slipFees 0.0001240055503490359
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=BTC/BTC&amount=8571428&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.0854784
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut BTC
+opportunityThorchain - amountIn 0.1 amountOutEstimated 0.09967722 outboundFees 3.3425382440087956e-06 slipFees 0.0001687038909354439
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=BTC/BTC&amount=10000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.09967723
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut BTC
+opportunityThorchain - amountIn 0.11428571 amountOutEstimated 0.11386233 outboundFees 3.3425052655127223e-06 slipFees 0.00022024159889661888
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=BTC/BTC&amount=11428571&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.11386234
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut BTC
+opportunityThorchain - amountIn 0.12857142 amountOutEstimated 0.12803375 outboundFees 3.3424723194938827e-06 slipFees 0.00027860879009678163
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=BTC/BTC&amount=12857142&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.12803376
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut BTC
+opportunityThorchain - amountIn 0.14285714 amountOutEstimated 0.14219149 outboundFees 3.342439405927128e-06 slipFees 0.00034379561407529635
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=BTC/BTC&amount=14285714&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.1421915
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut BTC
+opportunityThorchain - amountIn 0.15714285 amountOutEstimated 0.15633556 outboundFees 3.342406524787315e-06 slipFees 0.00041579209561743693
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=BTC/BTC&amount=15714285&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.15633557
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut BTC
+opportunityThorchain - amountIn 0.17142857 amountOutEstimated 0.170466 outboundFees 3.3423736759795604e-06 slipFees 0.000494588466060378
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=BTC/BTC&amount=17142857&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.17046601
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut BTC
+opportunityThorchain - amountIn 0.18571428 amountOutEstimated 0.18458278 outboundFees 3.342340859571716e-06 slipFees 0.0005801747601210445
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=BTC/BTC&amount=18571428&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.18458279
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut BTC
+opportunityThorchain - amountIn 0.2 amountOutEstimated 0.19868596 outboundFees 3.3423080754224186e-06 slipFees 0.00067254125709949
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=BTC/BTC&amount=20000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.19868597
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut BTC
+opportunityThorchain - amountIn 0.21428571 amountOutEstimated 0.21277552 outboundFees 3.3422753235762777e-06 slipFees 0.00077167800160377
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=BTC/BTC&amount=21428571&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.21277553
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut BTC
+opportunityThorchain - amountIn 0.22857142 amountOutEstimated 0.22685149 outboundFees 3.3422426039616793e-06 slipFees 0.0008775752442541999
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=BTC/BTC&amount=22857142&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.2268515
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut BTC
+opportunityThorchain - amountIn 0.24285714 amountOutEstimated 0.2409139 outboundFees 3.3422099165070165e-06 slipFees 0.0009902232689855892
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=BTC/BTC&amount=24285714&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.24091391
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut BTC
+opportunityThorchain - amountIn 0.25714285 amountOutEstimated 0.25496274 outboundFees 3.3421772612336646e-06 slipFees 0.0011096121351671447
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=BTC/BTC&amount=25714285&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.25496275
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut BTC
+opportunityThorchain - amountIn 0.27142857 amountOutEstimated 0.26899805 outboundFees 3.3421446380467813e-06 slipFees 0.0012357322413482196
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=BTC/BTC&amount=27142857&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.26899806
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut BTC
+opportunityThorchain - amountIn 0.28571428 amountOutEstimated 0.28301981 outboundFees 3.342112046990993e-06 slipFees 0.0013685736566887165
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=BTC/BTC&amount=28571428&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.28301982
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.01428571 amountOutEstimated 0.01431218 outboundFees 3.3512670413855217e-06 slipFees 5.767788623971964e-06
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=1428571&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.01431219
+Outbound Fee: 3.35e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.02857142 amountOutEstimated 0.02860469 outboundFees 3.3506953361013216e-06 slipFees 2.3052587354998486e-05
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=2857142&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.0286047
+Outbound Fee: 3.35e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.04285714 amountOutEstimated 0.04287421 outboundFees 3.3501247449801775e-06 slipFees 5.18266276250674e-05
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=4285714&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.04287422
+Outbound Fee: 3.35e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.05714285 amountOutEstimated 0.05712079 outboundFees 3.349555265384779e-06 slipFees 9.206215351841707e-05
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=5714285&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.05712079
+Outbound Fee: 3.35e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.07142857 amountOutEstimated 0.07134448 outboundFees 3.3489868934839402e-06 slipFees 0.00014373158255758924
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=7142857&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.07134448
+Outbound Fee: 3.35e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.08571428 amountOutEstimated 0.0855453 outboundFees 3.348419627849148e-06 slipFees 0.00020680728021774033
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=8571428&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.0855453
+Outbound Fee: 3.35e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.1 amountOutEstimated 0.09972334 outboundFees 3.3478534638608777e-06 slipFees 0.00028126184892933334
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=10000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.09972334
+Outbound Fee: 3.35e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.11428571 amountOutEstimated 0.11387861 outboundFees 3.34728840009994e-06 slipFees 0.00036706777468895567
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=11428571&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.11387861
+Outbound Fee: 3.35e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.12857142 amountOutEstimated 0.12801118 outboundFees 3.34672443275624e-06 slipFees 0.0004641977717131555
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=12857142&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.12801118
+Outbound Fee: 3.35e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.14285714 amountOutEstimated 0.1421211 outboundFees 3.3461615588236213e-06 slipFees 0.0005726246615018479
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=14285714&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.1421211
+Outbound Fee: 3.35e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.15714285 amountOutEstimated 0.15620841 outboundFees 3.3455997756997864e-06 slipFees 0.0006923211092190506
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=15714285&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.15620841
+Outbound Fee: 3.35e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.17142857 amountOutEstimated 0.17027316 outboundFees 3.3450390803884337e-06 slipFees 0.0008232601744490635
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=17142857&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.17027316
+Outbound Fee: 3.35e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.18571428 amountOutEstimated 0.18431539 outboundFees 3.3444794702968187e-06 slipFees 0.0009654146407346957
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=18571428&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.1843154
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.2 amountOutEstimated 0.19833515 outboundFees 3.343920942438425e-06 slipFees 0.0011187577484983835
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=20000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.19833516
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.21428571 amountOutEstimated 0.21233249 outboundFees 3.3433634938318038e-06 slipFees 0.001283262398816931
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=21428571&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.2123325
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.22857142 amountOutEstimated 0.22630746 outboundFees 3.3428071215005523e-06 slipFees 0.00145890188496901
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=22857142&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.22630747
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.24285714 amountOutEstimated 0.2402601 outboundFees 3.342251822871218e-06 slipFees 0.0016456496052434278
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=24285714&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.24026011
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.25714285 amountOutEstimated 0.25419046 outboundFees 3.3416975949770416e-06 slipFees 0.0018434786354490714
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=25714285&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.25419047
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.27142857 amountOutEstimated 0.26809859 outboundFees 3.341144434856256e-06 slipFees 0.0020523626631205414
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=27142857&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.2680986
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn BTCB-1DE assetOut WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599
+opportunityThorchain - amountIn 0.28571428 amountOutEstimated 0.28198453 outboundFees 3.340592339949596e-06 slipFees 0.0022722748795188266
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=BNB/BTCB-1DE&to_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&amount=28571428&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.28198454
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTC
+opportunityThorchain - amountIn 0.01428571 amountOutEstimated 0.01423856 outboundFees 3.3427368913063827e-06 slipFees 2.5703949619288993e-06
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BTC/BTC&amount=1428571&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.01423857
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTC
+opportunityThorchain - amountIn 0.02857142 amountOutEstimated 0.02847019 outboundFees 3.3427038007257785e-06 slipFees 1.0277870319203758e-05
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BTC/BTC&amount=2857142&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.0284702
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTC
+opportunityThorchain - amountIn 0.04285714 amountOutEstimated 0.04269157 outboundFees 3.342670734632324e-06 slipFees 2.311687716388012e-05
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BTC/BTC&amount=4285714&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.04269158
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTC
+opportunityThorchain - amountIn 0.05714285 amountOutEstimated 0.05690268 outboundFees 3.3426376930710854e-06 slipFees 4.108184395905193e-05
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BTC/BTC&amount=5714285&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.05690269
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTC
+opportunityThorchain - amountIn 0.07142857 amountOutEstimated 0.07110355 outboundFees 3.3426046759708777e-06 slipFees 6.416724841146574e-05
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BTC/BTC&amount=7142857&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.07110356
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTC
+opportunityThorchain - amountIn 0.08571428 amountOutEstimated 0.08529416 outboundFees 3.34257168337677e-06 slipFees 9.236751687815409e-05
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BTC/BTC&amount=8571428&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.08529417
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTC
+opportunityThorchain - amountIn 0.1 amountOutEstimated 0.09947455 outboundFees 3.342538715194334e-06 slipFees 0.00012567715361891388
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BTC/BTC&amount=10000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.09947456
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTC
+opportunityThorchain - amountIn 0.11428571 amountOutEstimated 0.11364471 outboundFees 3.3425057714453933e-06 slipFees 0.00016409058288521526
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BTC/BTC&amount=11428571&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.11364472
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTC
+opportunityThorchain - amountIn 0.12857142 amountOutEstimated 0.12780465 outboundFees 3.3424728521052735e-06 slipFees 0.0002076023031870901
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BTC/BTC&amount=12857142&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.12780466
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTC
+opportunityThorchain - amountIn 0.14285714 amountOutEstimated 0.14195439 outboundFees 3.3424399571260567e-06 slipFees 0.0002562068333949521
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BTC/BTC&amount=14285714&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.1419544
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTC
+opportunityThorchain - amountIn 0.15714285 amountOutEstimated 0.15609393 outboundFees 3.342407086506324e-06 slipFees 0.000309898594602905
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BTC/BTC&amount=15714285&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.15609394
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTC
+opportunityThorchain - amountIn 0.17142857 amountOutEstimated 0.17022328 outboundFees 3.34237424022141e-06 slipFees 0.00036867215718470564
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BTC/BTC&amount=17142857&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.17022329
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTC
+opportunityThorchain - amountIn 0.18571428 amountOutEstimated 0.18434244 outboundFees 3.3423414182698997e-06 slipFees 0.00043252194013022546
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BTC/BTC&amount=18571428&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.18434245
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTC
+opportunityThorchain - amountIn 0.2 amountOutEstimated 0.19845144 outboundFees 3.3423086205806403e-06 slipFees 0.0005014425401517494
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BTC/BTC&amount=20000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.19845145
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTC
+opportunityThorchain - amountIn 0.21428571 amountOutEstimated 0.21255026 outboundFees 3.342275847198713e-06 slipFees 0.0005754283741354815
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BTC/BTC&amount=21428571&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.21255027
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTC
+opportunityThorchain - amountIn 0.22857142 amountOutEstimated 0.22663892 outboundFees 3.3422430980762175e-06 slipFees 0.0006544740079696765
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BTC/BTC&amount=22857142&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.22663893
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTC
+opportunityThorchain - amountIn 0.24285714 amountOutEstimated 0.24071745 outboundFees 3.3422103731420133e-06 slipFees 0.000738574027742297
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BTC/BTC&amount=24285714&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.24071746
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTC
+opportunityThorchain - amountIn 0.25714285 amountOutEstimated 0.25478583 outboundFees 3.3421776724411854e-06 slipFees 0.0008277228471851444
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BTC/BTC&amount=25714285&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.25478584
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTC
+opportunityThorchain - amountIn 0.27142857 amountOutEstimated 0.26884408 outboundFees 3.3421449959258443e-06 slipFees 0.0009219151285905268
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BTC/BTC&amount=27142857&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.26884409
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTC
+opportunityThorchain - amountIn 0.28571428 amountOutEstimated 0.28289221 outboundFees 3.3421123435713463e-06 slipFees 0.001021145283588071
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BTC/BTC&amount=28571428&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.28289222
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.01428571 amountOutEstimated 0.01422966 outboundFees 3.341388380070133e-06 slipFees 5.717976289607651e-06
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BNB/BTCB-1DE&amount=1428571&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.01422967
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.02857142 amountOutEstimated 0.02843984 outboundFees 3.340618167404508e-06 slipFees 2.2853552273084767e-05
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BNB/BTCB-1DE&amount=2857142&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.02843985
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.04285714 amountOutEstimated 0.04262724 outboundFees 3.3398495441336503e-06 slipFees 5.137928094491493e-05
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BNB/BTCB-1DE&amount=4285714&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.04262724
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.05714285 amountOutEstimated 0.05679187 outboundFees 3.339082506684504e-06 slipFees 9.126772902320848e-05
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BNB/BTCB-1DE&amount=5714285&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.05679187
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.07142857 amountOutEstimated 0.07093382 outboundFees 3.338317048786588e-06 slipFees 0.00014249163634415886
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BNB/BTCB-1DE&amount=7142857&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.07093382
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.08571428 amountOutEstimated 0.0850531 outboundFees 3.3375531679689003e-06 slipFees 0.00020502369231682177
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BNB/BTCB-1DE&amount=8571428&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.0850531
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.1 amountOutEstimated 0.09914979 outboundFees 3.336790857982132e-06 slipFees 0.0002788368224298203
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BNB/BTCB-1DE&amount=10000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.09914979
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.11428571 amountOutEstimated 0.11322392 outboundFees 3.3360301152921035e-06 slipFees 0.0003639038379033681
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BNB/BTCB-1DE&amount=11428571&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.11322392
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.12857142 amountOutEstimated 0.12727553 outboundFees 3.3352709358326188e-06 slipFees 0.0004601977773691365
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BNB/BTCB-1DE&amount=12857142&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.12727553
+Outbound Fee: 3.34e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.14285714 amountOutEstimated 0.1413047 outboundFees 3.33451331338693e-06 slipFees 0.0005676917869725206
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BNB/BTCB-1DE&amount=14285714&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.14130471
+Outbound Fee: 3.33e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.15714285 amountOutEstimated 0.15531143 outboundFees 3.3337572460685947e-06 slipFees 0.0006863588590162786
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BNB/BTCB-1DE&amount=15714285&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.15531144
+Outbound Fee: 3.33e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.17142857 amountOutEstimated 0.16929581 outboundFees 3.333002727141473e-06 slipFees 0.0008161723779746471
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BNB/BTCB-1DE&amount=17142857&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.16929582
+Outbound Fee: 3.33e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.18571428 amountOutEstimated 0.18325786 outboundFees 3.332249753657531e-06 slipFees 0.0009571054557928329
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BNB/BTCB-1DE&amount=18571428&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.18325787
+Outbound Fee: 3.33e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.2 amountOutEstimated 0.19719764 outboundFees 3.331498320519989e-06 slipFees 0.001109131658503965
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BNB/BTCB-1DE&amount=20000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.19719765
+Outbound Fee: 3.33e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.21428571 amountOutEstimated 0.21111518 outboundFees 3.330748424258991e-06 slipFees 0.0012722242168403545
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BNB/BTCB-1DE&amount=21428571&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.21111519
+Outbound Fee: 3.33e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.22857142 amountOutEstimated 0.22501054 outboundFees 3.330000059797228e-06 slipFees 0.0014463567514931969
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BNB/BTCB-1DE&amount=22857142&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.22501055
+Outbound Fee: 3.33e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.24285714 amountOutEstimated 0.23888379 outboundFees 3.3292532220681607e-06 slipFees 0.001631502988385333
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BNB/BTCB-1DE&amount=24285714&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.23888379
+Outbound Fee: 3.33e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.25714285 amountOutEstimated 0.25273492 outboundFees 3.3285079087058112e-06 slipFees 0.0018276363348408977
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BNB/BTCB-1DE&amount=25714285&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.25273492
+Outbound Fee: 3.33e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.27142857 amountOutEstimated 0.26656402 outboundFees 3.327764113585979e-06 slipFees 0.002034730805776709
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BNB/BTCB-1DE&amount=27142857&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.26656402
+Outbound Fee: 3.33e-06
+
+
+opportunityThorchain - assetIn WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599 assetOut BTCB-1DE
+opportunityThorchain - amountIn 0.28571428 amountOutEstimated 0.28037111 outboundFees 3.3270218338219565e-06 slipFees 0.002252759925195466
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482893&from_asset=ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599&to_asset=BNB/BTCB-1DE&amount=28571428&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 0.28037111
+Outbound Fee: 3.33e-06
+

@@ -1,0 +1,4 @@
+2023-12-28 10:15:27,153 - ERROR - Error: 
+2023-12-28 10:15:27,153 - INFO - WebSocket Thorchain is already open
+2023-12-28 10:15:27,154 - INFO - ### WebSocket Thorchain Closed ###
+2023-12-28 10:15:27,154 - INFO - tearing down on exception 

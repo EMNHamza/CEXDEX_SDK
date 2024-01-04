@@ -1,0 +1,71 @@
+{
+    "ETH": {
+        "assetType": "ETH",
+        "symbol": "ETH",
+        "balanceName": "ETH"
+    },
+    "BNB.ETH": {
+        "chain": "BNB",
+        "symbol": "ETH-1C9",
+        "ticker": "ETH-1C9",
+        "poolName": "BNB.ETH-1C9",
+        "balanceName": "bnb/eth-1c9",
+        "memoName": "BNB/ETH-1C9",
+        "assetType": "ETH",
+        "decimals": 8
+    },
+    "ETH.ETH": {
+        "chain": "ETH",
+        "symbol": "ETH",
+        "ticker": "ETH",
+        "poolName": "ETH.ETH",
+        "balanceName": "eth/eth",
+        "memoName": "ETH/ETH",
+        "assetType": "ETH",
+        "decimals": 8
+    },
+    "BTC.BTC": {
+        "chain": "BTC",
+        "symbol": "BTC",
+        "ticker": "BTC",
+        "poolName": "BTC.BTC",
+        "balanceName": "btc/btc",
+        "memoName": "BTC/BTC",
+        "assetType": "BTC",
+        "decimals": 8,
+        "maxBalancePercentage": 0
+    },
+    "BNB.BTCB": {
+        "chain": "BNB",
+        "symbol": "BTCB-1DE",
+        "ticker": "BTCB-1DE",
+        "poolName": "BNB.BTCB-1DE",
+        "balanceName": "bnb/btcb-1de",
+        "memoName": "BNB/BTCB-1DE",
+        "assetType": "BTC",
+        "decimals": 8,
+        "maxBalancePercentage": 0
+    },
+    "ETH.WBTC": {
+        "chain": "ETH",
+        "symbol": "WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599",
+        "ticker": "WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599",
+        "poolName": "ETH.WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599",
+        "balanceName": "eth/wbtc-0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "memoName": "ETH/WBTC-0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599",
+        "assetType": "BTC",
+        "decimals": 8,
+        "maxBalancePercentage": 0
+    },
+    "BNB.BUSD": {
+        "chain": "BNB",
+        "symbol": "BUSD-BD1",
+        "ticker": "BUSD-BD1",
+        "poolName": "BNB.BUSD-BD1",
+        "balanceName": "bnb/busd-bd1",
+        "memoName": "BNB/BUSD-BD1",
+        "assetType": "STABLE",
+        "decimals": 8,
+        "maxBalancePercentage": 0
+    }
+}

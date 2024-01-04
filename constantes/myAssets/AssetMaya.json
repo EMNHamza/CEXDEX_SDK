@@ -1,0 +1,62 @@
+{
+    "ETH.USDC": {
+        "chain": "ETH",
+        "symbol": "USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48",
+        "ticker": "USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48",
+        "poolName": "ETH.USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48",
+        "balanceName": "eth/usdc-0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "memoName": "ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48",
+        "assetType": "STABLE",
+        "decimals": 8
+    },
+    "ETH.USDT": {
+        "chain": "ETH",
+        "symbol": "USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7",
+        "ticker": "USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7",
+        "poolName": "ETH.USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7",
+        "balanceName": "eth/usdt-0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "memoName": "ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7",
+        "assetType": "STABLE",
+        "decimals": 8
+    },
+    "ETH.ETH": {
+        "chain": "ETH",
+        "symbol": "ETH",
+        "ticker": "ETH",
+        "poolName": "ETH.ETH",
+        "balanceName": "eth/eth",
+        "memoName": "ETH/ETH",
+        "assetType": "ETH",
+        "decimals": 8
+    },
+    "MAYA.CACAO": {
+        "chain": "MAYA",
+        "symbol": "CACAO",
+        "ticker": "CACAO",
+        "poolName": "MAYA.CACAO",
+        "balanceName": "cacao",
+        "memoName": "MAYA.CACAO",
+        "assetType": "CACAO",
+        "decimals": 10
+    },
+    "THOR.RUNE": {
+        "chain": "THOR",
+        "symbol": "RUNE",
+        "ticker": "RUNE",
+        "poolName": "THOR.RUNE",
+        "balanceName": "thor/rune",
+        "memoName": "THOR/RUNE",
+        "assetType": "RUNE",
+        "decimals": 8
+    },
+    "BTC.BTC": {
+        "chain": "BTC",
+        "symbol": "BTC",
+        "ticker": "BTC",
+        "poolName": "BTC.BTC",
+        "balanceName": "btc/btc",
+        "memoName": "BTC/BTC",
+        "assetType": "BTC",
+        "decimals": 8
+    }
+}

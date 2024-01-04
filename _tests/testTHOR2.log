@@ -1,0 +1,1681 @@
+BLOCK : 13482800
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 500.0 amountOutEstimated 499.25933057 outboundFees 0.1203019681864259 slipFees 0.11491579201329258
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=50000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 499.259331
+Outbound Fee: 0.120301
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 1000.0 amountOutEstimated 998.17962636 outboundFees 0.1202956590926551 slipFees 0.45945175568529395
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=100000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 998.179626
+Outbound Fee: 0.120295
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 1500.0 amountOutEstimated 1496.64111006 outboundFees 0.12028935646158861 slipFees 1.0332911285693207
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=150000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 1496.64111
+Outbound Fee: 0.120289
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 2000.0 amountOutEstimated 1994.64431185 outboundFees 0.12028306028459629 slipFees 1.8361176223485243
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=200000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 1994.644311
+Outbound Fee: 0.120283
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 2500.0 amountOutEstimated 2492.18976116 outboundFees 0.12027677055306261 slipFees 2.8676154219911183
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=250000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 2492.189761
+Outbound Fee: 0.120276
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 3000.0 amountOutEstimated 2989.27798664 outboundFees 0.12027048725838689 slipFees 4.127469184907391
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=300000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 2989.277987
+Outbound Fee: 0.12027
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 3500.0 amountOutEstimated 3485.90951614 outboundFees 0.12026421039198339 slipFees 5.615364040108501
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=350000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 3485.909516
+Outbound Fee: 0.120264
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 4000.0 amountOutEstimated 3982.08487679 outboundFees 0.12025793994528106 slipFees 7.330985587367029
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=400000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 3982.084877
+Outbound Fee: 0.120257
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 4500.0 amountOutEstimated 4477.80459489 outboundFees 0.12025167590972362 slipFees 9.274019896379324
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=450000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 4477.804595
+Outbound Fee: 0.120251
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 5000.0 amountOutEstimated 4973.06919604 outboundFees 0.12024541827676935 slipFees 11.444153505929593
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=500000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 4973.069196
+Outbound Fee: 0.120245
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 5500.0 amountOutEstimated 5467.87920503 outboundFees 0.12023916703789132 slipFees 13.841073423055768
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=550000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 5467.879205
+Outbound Fee: 0.120239
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 6000.0 amountOutEstimated 5962.23514588 outboundFees 0.12023292218457743 slipFees 16.464467122217123
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=600000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 5962.235146
+Outbound Fee: 0.120232
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 6500.0 amountOutEstimated 6456.13754189 outboundFees 0.12022668370832978 slipFees 19.314022544463626
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=650000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 6456.137542
+Outbound Fee: 0.120226
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 7000.0 amountOutEstimated 6949.58691554 outboundFees 0.12022045160066558 slipFees 22.389428096607087
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=700000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 6949.586915
+Outbound Fee: 0.12022
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 7500.0 amountOutEstimated 7442.58378861 outboundFees 0.12021422585311603 slipFees 25.690372650393982
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=750000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 7442.583788
+Outbound Fee: 0.120214
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 8000.0 amountOutEstimated 7935.12868206 outboundFees 0.12020800645722733 slipFees 29.216545541680087
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=800000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 7935.128683
+Outbound Fee: 0.120207
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 8500.0 amountOutEstimated 8427.22211613 outboundFees 0.12020179340455996 slipFees 32.96763656960679
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=850000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8427.222116
+Outbound Fee: 0.120201
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 9000.0 amountOutEstimated 8918.86461031 outboundFees 0.12019558668668871 slipFees 36.943335995779165
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=900000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8918.86461
+Outbound Fee: 0.120195
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 9500.0 amountOutEstimated 9410.05668329 outboundFees 0.1201893862952033 slipFees 41.143334543445775
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=950000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 9410.056683
+Outbound Fee: 0.120189
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 10000.0 amountOutEstimated 9900.79885306 outboundFees 0.12018319222170715 slipFees 45.56732339668017
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=1000000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 9900.798854
+Outbound Fee: 0.120182
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 500.0 amountOutEstimated 499.28701909 outboundFees 0.12030741642415627 slipFees 0.10984300301860553
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=50000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 499.287019
+Outbound Fee: 0.120307
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 1000.0 amountOutEstimated 998.25526516 outboundFees 0.12030232838698425 slipFees 0.439178855139969
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=100000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 998.255265
+Outbound Fee: 0.120302
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 1500.0 amountOutEstimated 1496.78490485 outboundFees 0.12029724525211312 slipFees 0.9877181280261883
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=150000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 1496.784905
+Outbound Fee: 0.120297
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 2000.0 amountOutEstimated 1994.8764167 outboundFees 0.12029216701347609 slipFees 1.7551718022110019
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=200000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 1994.876416
+Outbound Fee: 0.120292
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 2500.0 amountOutEstimated 2492.53027852 outboundFees 0.1202870936650164 slipFees 2.7412512664174975
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=250000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 2492.530278
+Outbound Fee: 0.120287
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 3000.0 amountOutEstimated 2989.74696754 outboundFees 0.12028202520068651 slipFees 3.9456683168771716
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=300000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 2989.746967
+Outbound Fee: 0.120282
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 3500.0 amountOutEstimated 3486.52696028 outboundFees 0.12027696161444874 slipFees 5.368135156650324
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=350000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 3486.526961
+Outbound Fee: 0.120276
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 4000.0 amountOutEstimated 3982.87073263 outboundFees 0.12027190290027501 slipFees 7.008364394947799
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=400000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 3982.870733
+Outbound Fee: 0.120271
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 4500.0 amountOutEstimated 4478.77875982 outboundFees 0.1202668490521467 slipFees 8.866069046454058
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=450000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 4478.77876
+Outbound Fee: 0.120266
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 5000.0 amountOutEstimated 4974.25151641 outboundFees 0.12026180006405475 slipFees 10.940962530651579
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=500000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 4974.251517
+Outbound Fee: 0.120261
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 5500.0 amountOutEstimated 5469.28947635 outboundFees 0.12025675592999976 slipFees 13.232758671146602
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=550000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 5469.289477
+Outbound Fee: 0.120256
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 6000.0 amountOutEstimated 5963.8931129 outboundFees 0.12025171664399172 slipFees 15.741171694996195
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=600000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 5963.893113
+Outbound Fee: 0.120251
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 6500.0 amountOutEstimated 6458.06289869 outboundFees 0.1202466822000501 slipFees 18.465916232036626
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=650000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 6458.062899
+Outbound Fee: 0.120246
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 7000.0 amountOutEstimated 6951.7993057 outboundFees 0.12024165259220398 slipFees 21.40670731421309
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=700000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 6951.799306
+Outbound Fee: 0.120241
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 7500.0 amountOutEstimated 7445.10280526 outboundFees 0.12023662781449186 slipFees 24.5632603749107
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=750000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 7445.102805
+Outbound Fee: 0.120236
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 8000.0 amountOutEstimated 7937.97386805 outboundFees 0.1202316078609616 slipFees 27.9352912482869
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=800000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 7937.973868
+Outbound Fee: 0.120231
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 8500.0 amountOutEstimated 8430.4129641 outboundFees 0.12022659272567059 slipFees 31.522516168605026
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=850000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8430.412964
+Outbound Fee: 0.120226
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 9000.0 amountOutEstimated 8922.42056282 outboundFees 0.12022158240268555 slipFees 35.324651769569336
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=900000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8922.420563
+Outbound Fee: 0.120221
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 9500.0 amountOutEstimated 9413.99713297 outboundFees 0.12021657688608255 slipFees 39.34141508366124
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=950000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 9413.997133
+Outbound Fee: 0.120216
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 10000.0 amountOutEstimated 9905.14314264 outboundFees 0.12021157616994718 slipFees 43.572523541476876
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=1000000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 9905.143143
+Outbound Fee: 0.120211
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 500.0 amountOutEstimated 497.92822255 outboundFees 0.12013891733776441 slipFees 0.7674707532721134
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=50000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 497.92822299
+Outbound Fee: 0.12013847
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 1000.0 amountOutEstimated 992.92008312 outboundFees 0.11997706897438885 slipFees 3.060464353310522
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=100000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 992.92008485
+Outbound Fee: 0.1199753
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 1500.0 amountOutEstimated 1484.87778181 outboundFees 0.11981664419377534 slipFees 6.864959358504114
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=150000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 1484.87778578
+Outbound Fee: 0.11981268
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 2000.0 amountOutEstimated 1973.8236218 outboundFees 0.1196576260853188 slipFees 12.16707511230316
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=200000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 1973.8236288
+Outbound Fee: 0.11965062
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 2500.0 amountOutEstimated 2459.77970921 outboundFees 0.11949999799971216 slipFees 18.95307016129899
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=250000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 2459.77972004
+Outbound Fee: 0.11948912
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 3000.0 amountOutEstimated 2942.76795512 outboundFees 0.11934374354395695 slipFees 27.209340693273926
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=300000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 2942.76797066
+Outbound Fee: 0.11932816
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 3500.0 amountOutEstimated 3422.81007767 outboundFees 0.11918884657645473 slipFees 36.9224189949396
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=350000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 3422.81009875
+Outbound Fee: 0.11916775
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 4000.0 amountOutEstimated 3899.92760395 outboundFees 0.11903529120224719 slipFees 48.07897192908626
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=400000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 3899.92763135
+Outbound Fee: 0.11900788
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 4500.0 amountOutEstimated 4374.14187211 outboundFees 0.11888306176832165 slipFees 60.66579943087017
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=450000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 4374.14190657
+Outbound Fee: 0.11884856
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 5000.0 amountOutEstimated 4845.47403318 outboundFees 0.11873214285907263 slipFees 74.66983302297
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=500000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 4845.47407555
+Outbound Fee: 0.11868977
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 5500.0 amountOutEstimated 5313.94505312 outboundFees 0.11858251929181045 slipFees 90.07813434934783
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=550000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 5313.94510409
+Outbound Fee: 0.11853152
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 6000.0 amountOutEstimated 5779.57571462 outboundFees 0.11843417611242384 slipFees 106.87789372735453
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=600000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 5779.57577498
+Outbound Fee: 0.1183738
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 6500.0 amountOutEstimated 6242.38661907 outboundFees 0.11828709859110366 slipFees 125.05642871792179
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=650000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 6242.38668952
+Outbound Fee: 0.11821661
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 7000.0 amountOutEstimated 6702.39818837 outboundFees 0.11814127221817093 slipFees 144.60118271359053
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=700000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 6702.39826967
+Outbound Fee: 0.11805995
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 7500.0 amountOutEstimated 7159.63066682 outboundFees 0.11799668270000284 slipFees 165.49972354412483
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=750000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 7159.63075963
+Outbound Fee: 0.11790382
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 8000.0 amountOutEstimated 7614.10412288 outboundFees 0.11785331595504853 slipFees 187.73974209946837
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=800000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 7614.10422797
+Outbound Fee: 0.11774821
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 8500.0 amountOutEstimated 8065.838451 outboundFees 0.11771115810992575 slipFees 211.3090509698011
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=850000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8065.838569
+Outbound Fee: 0.11759312
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 9000.0 amountOutEstimated 8514.8533734 outboundFees 0.11757019549560627 slipFees 236.19558310245986
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=900000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8514.85350501
+Outbound Fee: 0.11743854
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 9500.0 amountOutEstimated 8961.16844181 outboundFees 0.11743041464369351 slipFees 262.38739047548955
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=950000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8961.16858773
+Outbound Fee: 0.11728449
+
+
+opportunityThorchain - assetIn BUSD-BD1 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 10000.0 amountOutEstimated 9404.80303921 outboundFees 0.11729180228276584 slipFees 289.87264278759307
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=BNB/BUSD-BD1&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=1000000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 9404.80320007
+Outbound Fee: 0.11713094
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut BUSD-BD1
+opportunityThorchain - amountIn 500.0 amountOutEstimated 500.040055 outboundFees 0.12038093652659679 slipFees 0.11518543353586409
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=BNB/BUSD-BD1&amount=50000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 500.04005113
+Outbound Fee: 0.12038093
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut BUSD-BD1
+opportunityThorchain - amountIn 1000.0 amountOutEstimated 999.74009171 outboundFees 0.12035957784632415 slipFees 0.46052967421460433
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=BNB/BUSD-BD1&amount=100000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 999.74008945
+Outbound Fee: 0.12035955
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut BUSD-BD1
+opportunityThorchain - amountIn 1500.0 amountOutEstimated 1498.98024045 outboundFees 0.12033824639040341 slipFees 1.0357150106484618
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=BNB/BUSD-BD1&amount=150000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 1498.98023849
+Outbound Fee: 0.12033818
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut BUSD-BD1
+opportunityThorchain - amountIn 2000.0 amountOutEstimated 1997.76103316 outboundFees 0.12031694211119964 slipFees 1.8404242353918716
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=BNB/BUSD-BD1&amount=200000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 1997.76102941
+Outbound Fee: 0.12031682
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut BUSD-BD1
+opportunityThorchain - amountIn 2500.0 amountOutEstimated 2496.083001 outboundFees 0.12029566496118808 slipFees 2.874340644028233
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=BNB/BUSD-BD1&amount=250000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 2496.08299858
+Outbound Fee: 0.12029548
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut BUSD-BD1
+opportunityThorchain - amountIn 3000.0 amountOutEstimated 2993.94667441 outboundFees 0.12027441489294989 slipFees 4.137148034258551
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=BNB/BUSD-BD1&amount=300000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 2993.94666968
+Outbound Fee: 0.12027414
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut BUSD-BD1
+opportunityThorchain - amountIn 3500.0 amountOutEstimated 3491.35258304 outboundFees 0.12025319185917643 slipFees 5.628530704991938
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=BNB/BUSD-BD1&amount=350000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 3491.3525776
+Outbound Fee: 0.12025282
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut BUSD-BD1
+opportunityThorchain - amountIn 4000.0 amountOutEstimated 3988.30125584 outboundFees 0.12023199581266499 slipFees 7.348173455437984
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=BNB/BUSD-BD1&amount=400000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 3988.30125051
+Outbound Fee: 0.12023151
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut BUSD-BD1
+opportunityThorchain - amountIn 4500.0 amountOutEstimated 4484.79322098 outboundFees 0.12021082670632068 slipFees 9.295761584200967
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=BNB/BUSD-BD1&amount=450000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 4484.79321584
+Outbound Fee: 0.12021022
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut BUSD-BD1
+opportunityThorchain - amountIn 5000.0 amountOutEstimated 4980.8290059 outboundFees 0.12018968449315542 slipFees 11.470980888375948
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=BNB/BUSD-BD1&amount=500000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 4980.8290063
+Outbound Fee: 0.12018893
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut BUSD-BD1
+opportunityThorchain - amountIn 5500.0 amountOutEstimated 5476.40913731 outboundFees 0.12016856912628761 slipFees 13.873517662646652
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=BNB/BUSD-BD1&amount=550000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 5476.40913586
+Outbound Fee: 0.12016766
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut BUSD-BD1
+opportunityThorchain - amountIn 6000.0 amountOutEstimated 5971.53414116 outboundFees 0.12014748055894144 slipFees 16.503058698385292
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=BNB/BUSD-BD1&amount=600000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 5971.53414172
+Outbound Fee: 0.1201464
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut BUSD-BD1
+opportunityThorchain - amountIn 6500.0 amountOutEstimated 6466.20454267 outboundFees 0.12012641874444893 slipFees 19.35929128275409
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=BNB/BUSD-BD1&amount=650000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 6466.20454242
+Outbound Fee: 0.12012515
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut BUSD-BD1
+opportunityThorchain - amountIn 7000.0 amountOutEstimated 6960.42086632 outboundFees 0.12010538363624522 slipFees 22.441903197808823
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=BNB/BUSD-BD1&amount=700000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 6960.42086767
+Outbound Fee: 0.12010391
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut BUSD-BD1
+opportunityThorchain - amountIn 7500.0 amountOutEstimated 7454.18363585 outboundFees 0.12008437518787311 slipFees 25.75058271960399
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=BNB/BUSD-BD1&amount=750000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 7454.18363457
+Outbound Fee: 0.12008268
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut BUSD-BD1
+opportunityThorchain - amountIn 8000.0 amountOutEstimated 7947.49337426 outboundFees 0.12006339335297944 slipFees 29.28501861729997
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=BNB/BUSD-BD1&amount=800000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 7947.49337138
+Outbound Fee: 0.12006147
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut BUSD-BD1
+opportunityThorchain - amountIn 8500.0 amountOutEstimated 8440.35060383 outboundFees 0.12004243808531605 slipFees 33.0449001522719
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=BNB/BUSD-BD1&amount=850000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8440.35060562
+Outbound Fee: 0.12004027
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut BUSD-BD1
+opportunityThorchain - amountIn 9000.0 amountOutEstimated 8932.75584609 outboundFees 0.12002150933873916 slipFees 37.02991707722045
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=BNB/BUSD-BD1&amount=900000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8932.75584626
+Outbound Fee: 0.12001908
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut BUSD-BD1
+opportunityThorchain - amountIn 9500.0 amountOutEstimated 9424.70962184 outboundFees 0.12000060706720952 slipFees 41.239759635284365
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=BNB/BUSD-BD1&amount=950000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 9424.70961937
+Outbound Fee: 0.1199979
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut BUSD-BD1
+opportunityThorchain - amountIn 10000.0 amountOutEstimated 9916.21245116 outboundFees 0.11997973122479139 slipFees 45.674118559154834
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=BNB/BUSD-BD1&amount=1000000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 9916.2124503
+Outbound Fee: 0.11997674
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 500.0 amountOutEstimated 499.8023193 outboundFees 0.1203074111693581 slipFees 0.04746630994861259
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=50000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 499.802315
+Outbound Fee: 0.120307
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 1000.0 amountOutEstimated 999.5351443 outboundFees 0.12030231533646131 slipFees 0.18982919636256362
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=100000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 999.535142
+Outbound Fee: 0.120302
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 1500.0 amountOutEstimated 1499.07825689 outboundFees 0.12029722186950559 slipFees 0.42703462078359616
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=150000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 1499.078255
+Outbound Fee: 0.120297
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 2000.0 amountOutEstimated 1998.43175142 outboundFees 0.12029213076698293 slipFees 0.7590285803169744
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=200000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 1998.431747
+Outbound Fee: 0.120292
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 2500.0 amountOutEstimated 2497.59572221 outboundFees 0.12028704202738624 slipFees 1.185757107603284
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=250000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 2497.595719
+Outbound Fee: 0.120287
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 3000.0 amountOutEstimated 2996.57026348 outboundFees 0.12028195564921003 slipFees 1.7071662707902604
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=300000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 2996.570259
+Outbound Fee: 0.120281
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 3500.0 amountOutEstimated 3495.35546941 outboundFees 0.1202768716309498 slipFees 2.323202173504639
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=350000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 3495.355464
+Outbound Fee: 0.120276
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 4000.0 amountOutEstimated 3993.95143415 outboundFees 0.12027178997110229 slipFees 3.033810954824039
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=400000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 3993.951429
+Outbound Fee: 0.120271
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 4500.0 amountOutEstimated 4492.35825171 outboundFees 0.1202667106681658 slipFees 3.838938789248863
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=450000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 4492.358246
+Outbound Fee: 0.120266
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 5000.0 amountOutEstimated 4990.57601615 outboundFees 0.12026163372063935 slipFees 4.738531886674234
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=500000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 4990.576016
+Outbound Fee: 0.120261
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 5500.0 amountOutEstimated 5488.60482139 outboundFees 0.12025655912702371 slipFees 5.732536492361943
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=550000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 5488.604819
+Outbound Fee: 0.120256
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 6000.0 amountOutEstimated 5986.44476131 outboundFees 0.12025148688582057 slipFees 6.820898886912448
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=600000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 5986.444761
+Outbound Fee: 0.120251
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 6500.0 amountOutEstimated 6484.09592975 outboundFees 0.12024641699553298 slipFees 8.003565386236863
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=650000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 6484.095928
+Outbound Fee: 0.120246
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 7000.0 amountOutEstimated 6981.55842049 outboundFees 0.1202413494546651 slipFees 9.280482341529014
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=700000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 6981.55842
+Outbound Fee: 0.120241
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 7500.0 amountOutEstimated 7478.83232721 outboundFees 0.12023628426172256 slipFees 10.651596139237478
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=750000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 7478.832324
+Outbound Fee: 0.120236
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 8000.0 amountOutEstimated 7975.91774358 outboundFees 0.12023122141521214 slipFees 12.116853201037689
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=800000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 7975.917738
+Outbound Fee: 0.120231
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 8500.0 amountOutEstimated 8472.8147632 outboundFees 0.12022616091364163 slipFees 13.676199983804036
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=850000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8472.814762
+Outbound Fee: 0.120226
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 9000.0 amountOutEstimated 8969.52347961 outboundFees 0.12022110275552027 slipFees 15.329582979582005
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=900000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8969.523478
+Outbound Fee: 0.12022
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 9500.0 amountOutEstimated 9466.04398627 outboundFees 0.1202160469393586 slipFees 17.076948715560356
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=950000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 9466.043982
+Outbound Fee: 0.120215
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 10000.0 amountOutEstimated 9962.37637661 outboundFees 0.12021099346366806 slipFees 18.918243754043292
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=1000000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 9962.376373
+Outbound Fee: 0.12021
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 500.0 amountOutEstimated 498.44076387 outboundFees 0.1201387495253852 slipFees 0.7064554393526575
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=50000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 498.44076046
+Outbound Fee: 0.1201383
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 1000.0 amountOutEstimated 994.18640988 outboundFees 0.11997665548051684 slipFees 2.817843482334992
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=100000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 994.18640939
+Outbound Fee: 0.11997488
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 1500.0 amountOutEstimated 1487.13492162 outboundFees 0.11981590914121927 slipFees 6.322275279981667
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=150000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 1487.1349236
+Outbound Fee: 0.11981194
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 2000.0 amountOutEstimated 1977.30444353 outboundFees 0.11965649554322573 slipFees 11.207965920153274
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=200000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 1977.30444676
+Outbound Fee: 0.11964947
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 2500.0 amountOutEstimated 2464.71297996 outboundFees 0.11949839993915216 slipFees 17.463233418423105
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=250000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 2464.71298833
+Outbound Fee: 0.11948748
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 3000.0 amountOutEstimated 2949.37839644 outboundFees 0.11934160779457438 slipFees 25.076497719969
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=300000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 2949.37840724
+Outbound Fee: 0.11932595
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 3500.0 amountOutEstimated 3431.31842096 outboundFees 0.11918610478421712 slipFees 34.03627971233603
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=350000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 3431.31843655
+Outbound Fee: 0.1191649
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 4000.0 amountOutEstimated 3910.5506452 outboundFees 0.1190318767882143 slipFees 44.33120024893769
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=400000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 3910.55066716
+Outbound Fee: 0.11900432
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 4500.0 amountOutEstimated 4387.09252572 outboundFees 0.11887890988846112 slipFees 55.94997918316475
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=450000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 4387.09255493
+Outbound Fee: 0.1188442
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 5000.0 amountOutEstimated 4860.96138523 outboundFees 0.11872719036501726 slipFees 68.88143441297342
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=500000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 4860.96142755
+Outbound Fee: 0.11868454
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 5500.0 amountOutEstimated 5332.1744138 outboundFees 0.1185767046926173 slipFees 83.11448093582494
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=550000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 5332.17446291
+Outbound Fee: 0.11852535
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 6000.0 amountOutEstimated 5800.74866996 outboundFees 0.11842743953724473 slipFees 98.63812991385224
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=600000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 5800.74873029
+Outbound Fee: 0.11836662
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 6500.0 amountOutEstimated 6266.701082 outboundFees 0.1182793817527487 slipFees 115.44148774912864
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=650000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 6266.70115161
+Outbound Fee: 0.11820834
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 7000.0 amountOutEstimated 6730.04844906 outboundFees 0.11813251837759423 slipFees 133.51375516891807
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=700000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 6730.04853095
+Outbound Fee: 0.11805052
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 7500.0 amountOutEstimated 7190.8074423 outboundFees 0.11798683663161065 slipFees 152.84422632078477
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=750000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 7190.80753321
+Outbound Fee: 0.11789316
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 8000.0 amountOutEstimated 7648.99460606 outboundFees 0.11784232391286038 slipFees 173.42228787744483
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=800000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 7648.99470768
+Outbound Fee: 0.11773625
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 8500.0 amountOutEstimated 8104.62635898 outboundFees 0.11769896779454703 slipFees 195.23741815124248
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=850000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8104.62647782
+Outbound Fee: 0.11757978
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 9000.0 amountOutEstimated 8557.7189951 outboundFees 0.11755675602199364 slipFees 218.27918621813362
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=900000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8557.71912601
+Outbound Fee: 0.11742377
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 9500.0 amountOutEstimated 9008.288685 outboundFees 0.11741567650968543 slipFees 242.5372510510658
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=950000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 9008.28882775
+Outbound Fee: 0.1172682
+
+
+opportunityThorchain - assetIn USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 10000.0 amountOutEstimated 9456.35147691 outboundFees 0.11727571733835755 slipFees 268.0013606626382
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=1000000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 9456.35163605
+Outbound Fee: 0.11711307
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut BUSD-BD1
+opportunityThorchain - amountIn 500.0 amountOutEstimated 500.03267333 outboundFees 0.12038093684216755 slipFees 0.11008914449109532
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=BNB/BUSD-BD1&amount=50000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 500.03266969
+Outbound Fee: 0.12038093
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut BUSD-BD1
+opportunityThorchain - amountIn 1000.0 amountOutEstimated 999.74567974 outboundFees 0.12035957760751732 slipFees 0.4401628560022773
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=BNB/BUSD-BD1&amount=100000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 999.74567419
+Outbound Fee: 0.12035955
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut BUSD-BD1
+opportunityThorchain - amountIn 1500.0 amountOutEstimated 1499.01909753 outboundFees 0.12033824473041832 slipFees 0.98993087811785
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=BNB/BUSD-BD1&amount=150000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 1499.01909368
+Outbound Fee: 0.12033818
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut BUSD-BD1
+opportunityThorchain - amountIn 2000.0 amountOutEstimated 1997.85340671 outboundFees 0.12031693816637391 slipFees 1.7591033891998482
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=BNB/BUSD-BD1&amount=200000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 1997.85340405
+Outbound Fee: 0.12031682
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut BUSD-BD1
+opportunityThorchain - amountIn 2500.0 amountOutEstimated 2496.24908664 outboundFees 0.12029565787098516 slipFees 2.747391001648953
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=BNB/BUSD-BD1&amount=250000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 2496.24908653
+Outbound Fee: 0.12029547
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut BUSD-BD1
+opportunityThorchain - amountIn 3000.0 amountOutEstimated 2994.20661604 outboundFees 0.12027440379995111 slipFees 3.9545047611668287
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=BNB/BUSD-BD1&amount=300000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 2994.20661576
+Outbound Fee: 0.12027413
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut BUSD-BD1
+opportunityThorchain - amountIn 3500.0 amountOutEstimated 3491.72647302 outboundFees 0.12025317590906766 slipFees 5.380156146019854
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=BNB/BUSD-BD1&amount=350000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 3491.72647171
+Outbound Fee: 0.12025281
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut BUSD-BD1
+opportunityThorchain - amountIn 4000.0 amountOutEstimated 3988.80913502 outboundFees 0.12023197415422833 slipFees 7.024057066304297
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=BNB/BUSD-BD1&amount=400000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 3988.80913375
+Outbound Fee: 0.12023149
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut BUSD-BD1
+opportunityThorchain - amountIn 4500.0 amountOutEstimated 4485.45507889 outboundFees 0.12021079849142247 slipFees 8.885919863212852
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=BNB/BUSD-BD1&amount=450000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 4485.45507462
+Outbound Fee: 0.12021019
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut BUSD-BD1
+opportunityThorchain - amountIn 5000.0 amountOutEstimated 4981.6647808 outboundFees 0.1201896488767371 slipFees 10.965457308302632
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=BNB/BUSD-BD1&amount=500000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 4981.6647784
+Outbound Fee: 0.12018889
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut BUSD-BD1
+opportunityThorchain - amountIn 5500.0 amountOutEstimated 5477.43871633 outboundFees 0.12016852526635426 slipFees 13.262382602764532
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=BNB/BUSD-BD1&amount=550000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 5477.43871656
+Outbound Fee: 0.12016761
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut BUSD-BD1
+opportunityThorchain - amountIn 6000.0 amountOutEstimated 5972.77736041 outboundFees 0.1201474276165532 slipFees 15.77640937669398
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=BNB/BUSD-BD1&amount=600000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 5972.77735998
+Outbound Fee: 0.12014634
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut BUSD-BD1
+opportunityThorchain - amountIn 6500.0 amountOutEstimated 6467.68118736 outboundFees 0.1201263558837072 slipFees 18.507251688363112
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=BNB/BUSD-BD1&amount=650000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 6467.68118488
+Outbound Fee: 0.12012508
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut BUSD-BD1
+opportunityThorchain - amountIn 7000.0 amountOutEstimated 6962.15067084 outboundFees 0.12010531002428686 slipFees 21.454624023494347
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=BNB/BUSD-BD1&amount=700000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 6962.15066684
+Outbound Fee: 0.12010384
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut BUSD-BD1
+opportunityThorchain - amountIn 7500.0 amountOutEstimated 7456.18628393 outboundFees 0.12008428999485685 slipFees 24.618241294535274
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=BNB/BUSD-BD1&amount=750000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 7456.18628084
+Outbound Fee: 0.1200826
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut BUSD-BD1
+opportunityThorchain - amountIn 8000.0 amountOutEstimated 7949.78849903 outboundFees 0.12006329575207687 slipFees 27.997818839935064
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=BNB/BUSD-BD1&amount=800000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 7949.78849526
+Outbound Fee: 0.12006137
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut BUSD-BD1
+opportunityThorchain - amountIn 8500.0 amountOutEstimated 8442.95778796 outboundFees 0.12004232725270163 slipFees 31.593072423422093
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=BNB/BUSD-BD1&amount=850000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8442.95778975
+Outbound Fee: 0.12004016
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut BUSD-BD1
+opportunityThorchain - amountIn 9000.0 amountOutEstimated 8935.69462189 outboundFees 0.12002138445358003 slipFees 35.40371823328311
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=BNB/BUSD-BD1&amount=900000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8935.69461959
+Outbound Fee: 0.12001895
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut BUSD-BD1
+opportunityThorchain - amountIn 9500.0 amountOutEstimated 9427.99947139 outboundFees 0.120000467311655 slipFees 39.429472881643676
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=BNB/BUSD-BD1&amount=950000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 9427.99946914
+Outbound Fee: 0.11999776
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut BUSD-BD1
+opportunityThorchain - amountIn 10000.0 amountOutEstimated 9919.87280639 outboundFees 0.11997957578396341 slipFees 43.670053403750046
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=BNB/BUSD-BD1&amount=1000000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 9919.87280431
+Outbound Fee: 0.11997658
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 500.0 amountOutEstimated 499.76721212 outboundFees 0.12030196176367607 slipFees 0.04746130912561046
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=50000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 499.767209
+Outbound Fee: 0.120301
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 1000.0 amountOutEstimated 999.4649457 outboundFees 0.1202956428400112 slipFees 0.18980919840528612
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=100000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 999.46494
+Outbound Fee: 0.120295
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 1500.0 amountOutEstimated 1498.97298686 outboundFees 0.12028932697849709 slipFees 0.4269896377858228
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=150000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 1498.972983
+Outbound Fee: 0.120289
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 2000.0 amountOutEstimated 1998.29142994 outboundFees 0.12028301417708095 slipFees 0.7589486333144035
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=200000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 1998.291427
+Outbound Fee: 0.120283
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 2500.0 amountOutEstimated 2497.42036922 outboundFees 0.12027670443371197 slipFees 1.1856322271098894
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=250000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 2497.420369
+Outbound Fee: 0.120276
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 3000.0 amountOutEstimated 2996.35989893 outboundFees 0.12027039774634093 slipFees 1.7069864973341378
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=300000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 2996.359898
+Outbound Fee: 0.12027
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 3500.0 amountOutEstimated 3495.11011325 outboundFees 0.12026409411292013 slipFees 2.3229575581633424
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=350000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 3495.110111
+Outbound Fee: 0.120264
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 4000.0 amountOutEstimated 3993.67110629 outboundFees 0.12025779353140406 slipFees 3.033491559759407
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=400000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 3993.671105
+Outbound Fee: 0.120257
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 4500.0 amountOutEstimated 4492.0429721 outboundFees 0.12025149599974891 slipFees 3.838534688241337
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=450000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 4492.042967
+Outbound Fee: 0.120251
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 5000.0 amountOutEstimated 4990.22580467 outboundFees 0.12024520151591253 slipFees 4.738033165656662
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=500000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 4990.225801
+Outbound Fee: 0.120245
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 5500.0 amountOutEstimated 5488.21969795 outboundFees 0.12023891007785456 slipFees 5.731933249952894
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=550000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 5488.219698
+Outbound Fee: 0.120238
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 6000.0 amountOutEstimated 5986.02474581 outboundFees 0.12023262168353656 slipFees 6.820181234948981
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=600000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 5986.024744
+Outbound Fee: 0.120232
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 6500.0 amountOutEstimated 6483.64104209 outboundFees 0.12022633633092149 slipFees 8.002723450306823
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=650000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 6483.641038
+Outbound Fee: 0.120226
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 7000.0 amountOutEstimated 6981.06868052 outboundFees 0.12022005401797464 slipFees 9.279506261502803
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=700000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 6981.068676
+Outbound Fee: 0.120219
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 7500.0 amountOutEstimated 7478.30775484 outboundFees 0.12021377474266248 slipFees 10.650476069799318
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=750000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 7478.30775
+Outbound Fee: 0.120213
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 8000.0 amountOutEstimated 7975.35835867 outboundFees 0.12020749850295384 slipFees 12.115579312216386
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=800000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 7975.358353
+Outbound Fee: 0.120207
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 8500.0 amountOutEstimated 8472.22058561 outboundFees 0.12020122529681873 slipFees 13.674762461503223
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=850000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8472.220585
+Outbound Fee: 0.120201
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 9000.0 amountOutEstimated 8968.8945292 outboundFees 0.12019495512222923 slipFees 15.327972026109881
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=900000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8968.894525
+Outbound Fee: 0.120194
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 9500.0 amountOutEstimated 9465.38028291 outboundFees 0.12018868797715919 slipFees 17.07515455015893
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=950000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 9465.380278
+Outbound Fee: 0.120188
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 10000.0 amountOutEstimated 9961.67794013 outboundFees 0.12018242385958434 slipFees 18.9162566134171
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=1000000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 9961.677935
+Outbound Fee: 0.120182
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 500.0 amountOutEstimated 498.43342324 outboundFees 0.12013875192879263 slipFees 0.7013459532800643
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=50000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 498.43342006
+Outbound Fee: 0.12013831
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 1000.0 amountOutEstimated 994.19194056 outboundFees 0.11997665367458872 slipFees 2.797519890488778
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=100000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 994.19193682
+Outbound Fee: 0.11997488
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 1500.0 amountOutEstimated 1487.17319824 outboundFees 0.11981589667626094 slipFees 6.276802351055703
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=150000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 1487.17319836
+Outbound Fee: 0.11981192
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 2000.0 amountOutEstimated 1977.39500769 outboundFees 0.11965646612902132 slipFees 11.127574990378289
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=200000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 1977.39501199
+Outbound Fee: 0.11964944
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 2500.0 amountOutEstimated 2464.87504456 outboundFees 0.11949834744143101 slipFees 17.338319611262257
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=250000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 2464.8750552
+Outbound Fee: 0.11948742
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 3000.0 amountOutEstimated 2949.63084985 outboundFees 0.11934152623160837 slipFees 24.89761720578342
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=300000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 2949.63086496
+Outbound Fee: 0.11932587
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 3500.0 amountOutEstimated 3431.67983119 outboundFees 0.11918598832347303 slipFees 33.794147007445524
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=350000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 3431.67985077
+Outbound Fee: 0.11916478
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 4000.0 amountOutEstimated 3911.03926398 outboundFees 0.11903171974309748 slipFees 44.01668555351035
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=400000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 3911.03928986
+Outbound Fee: 0.11900415
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 4500.0 amountOutEstimated 4387.72629258 outboundFees 0.11887870671512617 slipFees 55.55410575737806
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=450000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 4387.72632263
+Outbound Fee: 0.11884399
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 5000.0 amountOutEstimated 4861.75793151 outboundFees 0.11872693565926336 slipFees 68.3953759908974
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=500000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 4861.75797116
+Outbound Fee: 0.11868428
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 5500.0 amountOutEstimated 5333.15106654 outboundFees 0.11857639318685659 slipFees 82.52955917648674
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=550000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 5333.15111727
+Outbound Fee: 0.11852502
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 6000.0 amountOutEstimated 5801.92245588 outboundFees 0.11842706609752933 slipFees 97.94581188894873
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=600000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 5801.9225153
+Outbound Fee: 0.11836622
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 6500.0 amountOutEstimated 6268.0887313 outboundFees 0.11827894137588663 slipFees 114.6333834668627
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=650000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 6268.08879886
+Outbound Fee: 0.11820787
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 7000.0 amountOutEstimated 6731.66639925 outboundFees 0.11813200618831128 slipFees 132.5816151334417
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=700000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 6731.66647617
+Outbound Fee: 0.11804997
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 7500.0 amountOutEstimated 7192.67184192 outboundFees 0.11798624787980716 slipFees 151.77993912673892
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=750000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 7192.6719312
+Outbound Fee: 0.11789252
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 8000.0 amountOutEstimated 7651.12131841 outboundFees 0.1178416539709015 slipFees 172.2178778390964
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=800000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 7651.12141927
+Outbound Fee: 0.11773552
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 8500.0 amountOutEstimated 8107.03096577 outboundFees 0.11769821215463572 slipFees 193.88504296572074
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=850000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8107.03108469
+Outbound Fee: 0.11757895
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 9000.0 amountOutEstimated 8560.41680008 outboundFees 0.11755591029359601 slipFees 216.77113466228408
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=900000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8560.41692881
+Outbound Fee: 0.11742284
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 9500.0 amountOutEstimated 9011.29471754 outboundFees 0.11741473641701095 slipFees 240.86594071143796
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=950000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 9011.29486058
+Outbound Fee: 0.11726716
+
+
+opportunityThorchain - assetIn USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7 assetOut DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F
+opportunityThorchain - amountIn 10000.0 amountOutEstimated 9459.68049545 outboundFees 0.11727467871792356 slipFees 266.1593356981368
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&to_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&amount=1000000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 9459.68065359
+Outbound Fee: 0.11711192
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut BUSD-BD1
+opportunityThorchain - amountIn 500.0 amountOutEstimated 498.75600399 outboundFees 0.12038099142055765 slipFees 0.7693861691613343
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=BNB/BUSD-BD1&amount=50000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 498.75600398
+Outbound Fee: 0.12038098
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut BUSD-BD1
+opportunityThorchain - amountIn 1000.0 amountOutEstimated 994.56812462 outboundFees 0.12035979887291332 slipFees 3.068091252247632
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=BNB/BUSD-BD1&amount=100000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 994.56812462
+Outbound Fee: 0.12035977
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut BUSD-BD1
+opportunityThorchain - amountIn 1500.0 amountOutEstimated 1487.33852648 outboundFees 0.12033874372965485 slipFees 6.8820370138116065
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=BNB/BUSD-BD1&amount=150000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 1487.33852649
+Outbound Fee: 0.12033868
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut BUSD-BD1
+opportunityThorchain - amountIn 2000.0 amountOutEstimated 1977.08957007 outboundFees 0.12031782489556722 slipFees 12.19727988517043
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=BNB/BUSD-BD1&amount=200000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 1977.08957014
+Outbound Fee: 0.12031771
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut BUSD-BD1
+opportunityThorchain - amountIn 2500.0 amountOutEstimated 2463.84341168 outboundFees 0.12029704128645828 slipFees 19.000009478717686
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=BNB/BUSD-BD1&amount=250000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 2463.84341186
+Outbound Fee: 0.12029686
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut BUSD-BD1
+opportunityThorchain - amountIn 3000.0 amountOutEstimated 2947.6220057 outboundFees 0.12027639182902296 slipFees 27.276547121315676
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=BNB/BUSD-BD1&amount=300000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 2947.62200596
+Outbound Fee: 0.12027613
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut BUSD-BD1
+opportunityThorchain - amountIn 3500.0 amountOutEstimated 3428.44710682 outboundFees 0.12025587546070936 slipFees 37.0133444064853
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=BNB/BUSD-BD1&amount=350000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 3428.44710716
+Outbound Fee: 0.12025552
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut BUSD-BD1
+opportunityThorchain - amountIn 4000.0 amountOutEstimated 3906.34027223 outboundFees 0.12023549112958704 slipFees 48.19698176511585
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=BNB/BUSD-BD1&amount=400000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 3906.34027268
+Outbound Fee: 0.12023503
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut BUSD-BD1
+opportunityThorchain - amountIn 4500.0 amountOutEstimated 4381.32286382 outboundFees 0.12021523779421743 slipFees 60.81416705442124
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=BNB/BUSD-BD1&amount=450000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 4381.32286435
+Outbound Fee: 0.12021465
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut BUSD-BD1
+opportunityThorchain - amountIn 5000.0 amountOutEstimated 4853.41605024 outboundFees 0.12019511442352648 slipFees 74.8517341648743
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=BNB/BUSD-BD1&amount=500000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 4853.41605096
+Outbound Fee: 0.1201944
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut BUSD-BD1
+opportunityThorchain - amountIn 5500.0 amountOutEstimated 5322.64080915 outboundFees 0.12017511999667603 slipFees 90.29664164485479
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=BNB/BUSD-BD1&amount=550000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 5322.64080997
+Outbound Fee: 0.12017426
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut BUSD-BD1
+opportunityThorchain - amountIn 6000.0 amountOutEstimated 5789.01792916 outboundFees 0.1201552535029425 slipFees 107.13597134275162
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=BNB/BUSD-BD1&amount=600000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 5789.01793018
+Outbound Fee: 0.12015423
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut BUSD-BD1
+opportunityThorchain - amountIn 6500.0 amountOutEstimated 6252.56801201 outboundFees 0.12013551394159246 slipFees 125.35692706626376
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=BNB/BUSD-BD1&amount=650000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 6252.56801316
+Outbound Fee: 0.12013432
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut BUSD-BD1
+opportunityThorchain - amountIn 7000.0 amountOutEstimated 6713.31147451 outboundFees 0.12011590032176311 slipFees 144.94683325864887
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=BNB/BUSD-BD1&amount=700000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 6713.31147583
+Outbound Fee: 0.12011453
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut BUSD-BD1
+opportunityThorchain - amountIn 7500.0 amountOutEstimated 7171.26855063 outboundFees 0.12009641166234178 slipFees 165.89313369167232
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=BNB/BUSD-BD1&amount=750000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 7171.26855217
+Outbound Fee: 0.12009485
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut BUSD-BD1
+opportunityThorchain - amountIn 8000.0 amountOutEstimated 7626.45929341 outboundFees 0.12007704699185033 slipFees 188.18339017501435
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=BNB/BUSD-BD1&amount=800000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 7626.45929514
+Outbound Fee: 0.12007528
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut BUSD-BD1
+opportunityThorchain - amountIn 8500.0 amountOutEstimated 8078.90357697 outboundFees 0.12005780534832734 slipFees 211.8052812818961
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=BNB/BUSD-BD1&amount=850000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8078.90357892
+Outbound Fee: 0.12005582
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut BUSD-BD1
+opportunityThorchain - amountIn 9000.0 amountOutEstimated 8528.62109841 outboundFees 0.12003868577921663 slipFees 236.74660109068958
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=BNB/BUSD-BD1&amount=900000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8528.62110063
+Outbound Fee: 0.12003647
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut BUSD-BD1
+opportunityThorchain - amountIn 9500.0 amountOutEstimated 8975.63137975 outboundFees 0.12001968734125229 slipFees 262.9952579422807
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=BNB/BUSD-BD1&amount=950000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8975.63138219
+Outbound Fee: 0.12001724
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut BUSD-BD1
+opportunityThorchain - amountIn 10000.0 amountOutEstimated 9419.95376975 outboundFees 0.12000080910035096 slipFees 290.5392732129582
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=BNB/BUSD-BD1&amount=1000000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 9419.9537724
+Outbound Fee: 0.11999811
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 500.0 amountOutEstimated 498.49090202 outboundFees 0.1203019779040952 slipFees 0.7065623136753304
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=50000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 498.490902
+Outbound Fee: 0.120301
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 1000.0 amountOutEstimated 994.2862665 outboundFees 0.12029570832355328 slipFees 2.8182682482076697
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=100000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 994.286267
+Outbound Fee: 0.120295
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 1500.0 amountOutEstimated 1487.28407133 outboundFees 0.12028947476748206 slipFees 6.323223212048829
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=150000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 1487.284071
+Outbound Fee: 0.120289
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 2000.0 amountOutEstimated 1977.50245912 outboundFees 0.12028327699542 slipFees 11.209634381470268
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=200000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 1977.502459
+Outbound Fee: 0.120283
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 2500.0 amountOutEstimated 2464.95943033 outboundFees 0.12027711476886223 slipFees 17.465809722359616
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=250000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 2464.95943
+Outbound Fee: 0.120277
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 3000.0 amountOutEstimated 2949.67284452 outboundFees 0.12027098785124256 slipFees 25.080157022713212
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=300000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 2949.672845
+Outbound Fee: 0.12027
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 3500.0 amountOutEstimated 3431.66042172 outboundFees 0.12026489600791355 slipFees 34.0411829356922
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=350000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 3431.660422
+Outbound Fee: 0.120264
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 4000.0 amountOutEstimated 3910.93974372 outboundFees 0.12025883900612858 slipFees 44.33749203311164
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=400000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 3910.939744
+Outbound Fee: 0.120258
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 4500.0 amountOutEstimated 4387.52825533 outboundFees 0.1202528166150228 slipFees 55.95778586923377
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=450000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 4387.528256
+Outbound Fee: 0.120252
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 5000.0 amountOutEstimated 4861.44326568 outboundFees 0.1202468286055954 slipFees 68.89086205473855
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=500000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 4861.443266
+Outbound Fee: 0.120246
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 5500.0 amountOutEstimated 5332.70194946 outboundFees 0.12024087475069103 slipFees 83.12561334074606
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=550000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 5332.70195
+Outbound Fee: 0.12024
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 6000.0 amountOutEstimated 5801.32134818 outboundFees 0.12023495482498239 slipFees 98.65102671276745
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=600000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 5801.321349
+Outbound Fee: 0.120234
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 6500.0 amountOutEstimated 6267.31837137 outboundFees 0.12022906860495251 slipFees 115.45618249446252
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=650000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 6267.318372
+Outbound Fee: 0.120228
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 7000.0 amountOutEstimated 6730.70979783 outboundFees 0.1202232158688769 slipFees 133.5302534610838
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=700000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 6730.709797
+Outbound Fee: 0.120223
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 7500.0 amountOutEstimated 7191.51227682 outboundFees 0.12021739639680684 slipFees 152.86250396248866
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=750000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 7191.512277
+Outbound Fee: 0.120217
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 8000.0 amountOutEstimated 7649.74232927 outboundFees 0.12021160997055182 slipFees 173.44228905560269
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=800000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 7649.742329
+Outbound Fee: 0.120211
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 8500.0 amountOutEstimated 8105.41634889 outboundFees 0.12020585637366338 slipFees 195.25905364621903
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=850000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8105.416349
+Outbound Fee: 0.120205
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 9000.0 amountOutEstimated 8558.55060343 outboundFees 0.1202001353914177 slipFees 218.3023316400199
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=900000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8558.550604
+Outbound Fee: 0.120199
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 9500.0 amountOutEstimated 9009.16123579 outboundFees 0.1201944468107994 slipFees 242.56174510270847
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=950000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 9009.161236
+Outbound Fee: 0.120194
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48
+opportunityThorchain - amountIn 10000.0 amountOutEstimated 9457.26426514 outboundFees 0.12018879042048519 slipFees 268.0270034291398
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDC-0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48&amount=1000000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 9457.264265
+Outbound Fee: 0.120188
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 500.0 amountOutEstimated 498.51853232 outboundFees 0.12030742426083706 slipFees 0.7015259174628397
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=50000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 498.518532
+Outbound Fee: 0.120307
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 1000.0 amountOutEstimated 994.36145262 outboundFees 0.12030236809097695 slipFees 2.798236145658412
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=100000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 994.361452
+Outbound Fee: 0.120302
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 1500.0 amountOutEstimated 1487.42640027 outboundFees 0.12029734066984739 slipFees 6.278404500902445
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=150000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 1487.4264
+Outbound Fee: 0.120297
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 2000.0 amountOutEstimated 1977.73118837 outboundFees 0.12029234180868917 slipFees 11.130404174363656
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=200000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 1977.731188
+Outbound Fee: 0.120292
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 2500.0 amountOutEstimated 2465.29349242 outboundFees 0.12028737132024728 slipFees 17.34270678818946
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=250000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 2465.293492
+Outbound Fee: 0.120287
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 3000.0 amountOutEstimated 2950.13085164 outboundFees 0.12028242901875655 slipFees 24.90388146180583
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=300000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 2950.130852
+Outbound Fee: 0.120282
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 3500.0 amountOutEstimated 3432.26067019 outboundFees 0.12027751471992723 slipFees 33.80259388826744
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=350000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 3432.26067
+Outbound Fee: 0.120277
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 4000.0 amountOutEstimated 3911.70021844 outboundFees 0.12027262824093134 slipFees 44.02760542053585
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=400000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 3911.700219
+Outbound Fee: 0.120272
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 4500.0 amountOutEstimated 4388.46663413 outboundFees 0.12026776940038873 slipFees 55.56777216756518
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=450000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 4388.466634
+Outbound Fee: 0.120267
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 5000.0 amountOutEstimated 4862.57692367 outboundFees 0.12026293801835286 slipFees 68.41204410007643
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=500000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 4862.576924
+Outbound Fee: 0.120262
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 5500.0 amountOutEstimated 5334.04796325 outboundFees 0.12025813391629803 slipFees 82.54946416590298
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=550000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 5334.047963
+Outbound Fee: 0.120258
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 6000.0 amountOutEstimated 5802.89650009 outboundFees 0.12025335691710537 slipFees 97.96916741479188
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=600000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 5802.8965
+Outbound Fee: 0.120253
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 6500.0 amountOutEstimated 6269.13915354 outboundFees 0.12024860684505012 slipFees 114.66038013254648
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=650000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 6269.139154
+Outbound Fee: 0.120248
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 7000.0 amountOutEstimated 6732.79241633 outboundFees 0.1202438835257877 slipFees 132.61241898439786
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=700000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 6732.792417
+Outbound Fee: 0.120243
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 7500.0 amountOutEstimated 7193.87265564 outboundFees 0.12023918678634167 slipFees 151.8146901674943
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=750000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 7193.872655
+Outbound Fee: 0.120239
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 8000.0 amountOutEstimated 7652.39611426 outboundFees 0.12023451645509033 slipFees 172.25668857239876
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=800000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 7652.396114
+Outbound Fee: 0.120234
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 8500.0 amountOutEstimated 8108.37891173 outboundFees 0.12022987236175413 slipFees 193.9279969534867
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=850000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8108.378912
+Outbound Fee: 0.120229
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 9000.0 amountOutEstimated 8561.83704543 outboundFees 0.12022525433738332 slipFees 216.81828510813716
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=900000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 8561.837045
+Outbound Fee: 0.120225
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 9500.0 amountOutEstimated 9012.7863917 outboundFees 0.12022066221434512 slipFees 240.9173090646124
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=950000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 9012.786392
+Outbound Fee: 0.12022
+
+
+opportunityThorchain - assetIn DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F assetOut USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7
+opportunityThorchain - amountIn 10000.0 amountOutEstimated 9461.24270689 outboundFees 0.12021609582631208 slipFees 266.2149102785215
+url http://192.248.157.141:1317/thorchain/quote/swap?height=13482800&from_asset=ETH/DAI-0X6B175474E89094C44DA98B954EEDEAC495271D0F&to_asset=ETH/USDT-0XDAC17F958D2EE523A2206206994597C13D831EC7&amount=1000000000000&destination=thor19syh8vdjthkay5wmvsf83zhj0c9nxw0tyg2yy4
+Expected Amount Out: 9461.242707
+Outbound Fee: 0.120215
+

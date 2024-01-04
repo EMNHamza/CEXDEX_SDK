@@ -1,0 +1,52 @@
+{
+    "retCode": 0,
+    "retMsg": "OK",
+    "result": {
+        "nextPageCursor": "1546715249296802560%3A1699118826006%2C1546715249296802560%3A1699118826006",
+        "category": "spot",
+        "list": [
+            {
+                "symbol": "BTCUSDC",
+                "orderType": "Market",
+                "orderLinkId": "1546715249296802561",
+                "orderId": "1546715249296802560",
+                "cancelType": "UNKNOWN",
+                "avgPrice": "34755.45",
+                "stopOrderType": "",
+                "lastPriceOnCreated": "",
+                "orderStatus": "PartiallyFilledCanceled",
+                "takeProfit": "0",
+                "cumExecValue": "9.97481415",
+                "smpType": "None",
+                "triggerDirection": 0,
+                "blockTradeId": "",
+                "rejectReason": "EC_CancelForNoFullFill",
+                "isLeverage": "0",
+                "price": "0",
+                "orderIv": "",
+                "createdTime": "1699118826006",
+                "tpTriggerBy": "",
+                "positionIdx": 0,
+                "timeInForce": "IOC",
+                "leavesValue": "0.02518585",
+                "updatedTime": "1699118826007",
+                "side": "Buy",
+                "smpGroup": 0,
+                "triggerPrice": "0.00",
+                "cumExecFee": "0",
+                "slTriggerBy": "",
+                "leavesQty": "0.000000",
+                "closeOnTrigger": false,
+                "placeType": "",
+                "cumExecQty": "0.000287",
+                "reduceOnly": false,
+                "qty": "10.000000",
+                "stopLoss": "0",
+                "smpOrderId": "",
+                "triggerBy": ""
+            }
+        ]
+    },
+    "retExtInfo": {},
+    "time": 1699118826330
+}

@@ -1,0 +1,15 @@
+Date,Heure,Name,Montant,Info,OldBalance,NewBalance,PercentageHamza,PercentageMehdi 
+2023-11-05,16:50:07,Hamza,2694.95,Montant Initial
+2023-11-05,16:50:07,Mehdi,2694.95,Montant Initial   
+2023-11-05,16:50:07,Hamza,8955.12,Montant Initial 
+2023-11-05,16:50:07,Mehdi,4950.64,Montant Initial,0,19295.66,60.38,39.62
+2023-11-12,23:53:07,Mehdi,868.54,Montant Initial,20674.91,21543.45,57.95,42.05
+2023-11-17,19:00:07,Mehdi,282.93,Montant Initial,22134.30,22417.23,57.22,42.78
+2023-11-23,15:34:07,Mehdi,225.12,Montant Initial,22771.47,22996.59,56.66,43.34
+2023-12-08,15:34:07,Hamza,2732.8,Ajout de 427 RUNES,26291.27,29024.27,60.74,39.26
+2023-12-24,15:34:07,Mehdi,500,Ajout de 500 Dollars,32141.02,32641.02,59.8,40.19
+2023-12-08,15:34:07,Hamza,227.4,Ajout argent MEXC, 32992.64, 33220.04,60.07,39.93
+2023-12-28,15:34:07,Mehdi,1000,Add 1000 dollars,a def
+2023-12-28,15:34:07,Mehdi,900,Add 900 dollars,a def
+2023-12-30,13:34:07,Hamza,240,Add 240 dollars,a def
+2023-12-30,13:34:07,Mehdi,100,Add 100 dollars,a def
